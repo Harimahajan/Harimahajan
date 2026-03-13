@@ -46,11 +46,13 @@ Building scalable web applications with modern technologies.
 ![NextJS](https://img.shields.io/badge/Next.js-black)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple)
+
 ![NodeJS](https://img.shields.io/badge/Node.js-green)
 ![Express](https://img.shields.io/badge/Express.js-lightgrey)
 ![MongoDB](https://img.shields.io/badge/MongoDB-green)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
 ![SQL](https://img.shields.io/badge/SQL-grey)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 ![C++](https://img.shields.io/badge/C++-blue)
 ![Java](https://img.shields.io/badge/Java-red)
