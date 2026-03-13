@@ -2,6 +2,15 @@
 <h3 align="center">Full Stack Developer | MERN & Next.js Enthusiast</h3>
 
 <p align="center">
+<a href="https://github.com/Harimahajan">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+<a href="http://www.linkedin.com/in/hari-mahajan-1a05531a1">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+</p>
+
+<p align="center">
 Building scalable web applications with modern technologies.
 </p>
 
@@ -9,95 +18,65 @@ Building scalable web applications with modern technologies.
 
 ## 👨‍💻 About Me
 
-- 💻 Full Stack Developer from **Punjab, India**
-- 🚀 Currently working with **Next.js, React.js, Node.js**
-- 🧠 Strong foundation in **Data Structures, OOP, DBMS**
-- 🛠 Experienced in **secure authentication systems & role-based dashboards**
-- 🌱 Always learning new technologies to build better products
+I am a Full Stack Developer from Punjab, India, passionate about building scalable and secure web applications.  
+I enjoy working with modern technologies like React, Next.js, and Node.js to create efficient solutions.  
+Currently improving my problem-solving skills through Data Structures and real-world development projects.
 
 ---
+
 ## 🧩 Coding Profiles
 
-<p align="left">
+<p>
 
 <a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
 <a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
 </p>
 
+---
+
 ## 🛠 Tech Stack
-![HTML](https://img.shields.io/badge/HTML-HTML5-orange)
-![CSS](https://img.shields.io/badge/CSS-CSS3-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-![React](https://img.shields.io/badge/React-JS-blue)
-![NextJS](https://img.shields.io/badge/Next.js-black)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple)
 
-![NodeJS](https://img.shields.io/badge/Node.js-green)
-![Express](https://img.shields.io/badge/Express.js-lightgrey)
-![MongoDB](https://img.shields.io/badge/MongoDB-green)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
-![SQL](https://img.shields.io/badge/SQL-grey)
+<p>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![C++](https://img.shields.io/badge/C++-blue)
-![Java](https://img.shields.io/badge/Java-red)
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs"/>
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap"/>
 
----
+<br>
 
-## 🚀 Projects
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express"/>
 
-### AIHWC – All India Haj Welfare Committee
-A nationwide platform for managing volunteer registrations and administrative operations.
+<br>
 
-**Features**
-- Role Based Access Control (RBAC)
-- Admin Dashboard
-- Secure authentication
-- Scalable backend architecture
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql"/>
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge"/>
 
----
+<br>
 
-### PrepGenie – Exam Management System
-🔗 https://onlinecet.in/
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk"/>
 
-**Features**
-- Online test system
-- Secure exam workflow
-- Real-time results
-- Optimized backend queries
-
----
-
-## 💼 Experience
-
-### Full Stack Developer Intern — RSITHUB
-Dec 2025 – Present
-
-- Built full stack web applications
-- Implemented secure backend services
-- Worked on real client projects (PrepGenie, AIHWC)
-
-### MERN Stack Developer Intern — Coder Roots
-Jan 2025 – May 2025
-
-- Developed frontend features
-- Integrated backend APIs
-- Worked in Agile team environment
+</p>
 
 ---
 
@@ -119,24 +98,4 @@ Jan 2025 – May 2025
 
 ---
 
-## 🌐 Connect With Me
-
-📧 Email: **haritmahajan246@gmail.com**
-
-💼 LinkedIn  
-http://www.linkedin.com/in/hari-mahajan-1a05531a1
-
-💻 GitHub  
-https://github.com/Harimahajan
-
-🌍 Portfolio / Project  
-https://onlinecet.in/
-
----
-
-⭐ *"Always learning, always building."*
-
-<!---
-Harimahajan/Harimahajan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+⭐ *Always learning, always building.*
